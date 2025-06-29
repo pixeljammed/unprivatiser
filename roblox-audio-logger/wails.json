@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "roblox-audio-logger",
+  "outputfilename": "roblox-audio-logger",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "pixeljam",
+    "email": "MT156314@hrsfc.ac.uk"
+  }
+}
