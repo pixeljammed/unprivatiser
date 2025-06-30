@@ -1,4 +1,4 @@
-module roblox-audio-logger
+module roripper
 
 go 1.23
 
