@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">
-    Roblox Audio Logger
+    RoRipper
 </h1>
 
 <p align="center">
-    An external desktop tool to help show, preview and notify cached Roblox sounds as they're downloaded locally.
+    Another Roblox CDN cache dumper and viewer.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <br>
 
 
-## Explanation
+## Motivation
 This is a program that aids with the "great privitisation" (lol!) of Roblox assets that is forever being pushed forward by Roblox themself!
 Recently, user uploaded assets such as animations, sounds, meshes etc. are set
 
